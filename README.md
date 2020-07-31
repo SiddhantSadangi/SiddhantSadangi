@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!!! 👋
 
 <!--
 **SiddhantSadangi/SiddhantSadangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I have currenly been working with Reuters as a Data Scientist for over a year, supporting their Editorial and Marketing teams. Prior to this, I was an ETL developer at Deloitte and a core-team member of Deloitte's Machine Learning Guild.
+
+You can find my articles on Python and Data Science on [Medium](https://medium.com/@siddhant.sadangi). 
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/siddhantsadangi) or reach out to me at [siddhant.sadangi@gmail.com](mailto:siddhant.sadangi@gmail.com).
