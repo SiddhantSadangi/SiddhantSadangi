@@ -19,4 +19,4 @@ I am currently working as a Data Scientist at Reuters News where I help discover
 
 You can find my articles  on [Medium](https://medium.com/@siddhant.sadangi) and [Neptune](https://neptune.ai/blog/author/siddhantsadangi)
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/siddhantsadangi) or reach out to me at [siddhant.sadangi@gmail.com](mailto:siddhant.sadangi@gmail.com).
-A copy of my latest CV is available [here](https://drive.google.com/file/d/1fExd9dMoXI6B9_92WsFGy7JPZXOKGT8w/view?usp=sharing)
+A copy of my latest CV is available [here](https://drive.google.com/file/d/1fExd9dMoXI6B9_92WsFGy7JPZXOKGT8w/view?usp=sharing).
