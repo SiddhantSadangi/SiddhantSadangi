@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have currenly been working with Reuters as a Data Scientist for over a year, supporting their Editorial and Marketing teams. Prior to this, I was an ETL developer at Deloitte and a core-team member of Deloitte's Machine Learning Guild.
+I am currently working as a Data Scientist at Reuters News where I help discover and predict media engagement trends, upselling opportunities, customer churn, and perform ad-hoc analysis for the Editorial and Marketing teams. I am also a Freelance Technical Writer for Neptune.ai where I blog about data science tools, methodologies, platforms, and create supporting documentation for Neptune.ai’s products. Prior to this, I was an ETL developer at Deloitte and a core-team member of Deloitte's Machine Learning Guild.
 
-You can find my articles on Python and Data Science on [Medium](https://medium.com/@siddhant.sadangi). 
+You can find my articles  on [Medium](https://medium.com/@siddhant.sadangi) and [Neptune](https://neptune.ai/blog/author/siddhantsadangi)
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/siddhantsadangi) or reach out to me at [siddhant.sadangi@gmail.com](mailto:siddhant.sadangi@gmail.com).
+A copy of my latest CV is available [here](https://drive.google.com/file/d/1fExd9dMoXI6B9_92WsFGy7JPZXOKGT8w/view?usp=sharing)
