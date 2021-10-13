@@ -25,6 +25,11 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [How to display the git branch in the conda terminal prompt on Windows?](https://stackoverflow.com/questions/60190675/how-to-display-the-git-branch-in-the-conda-terminal-prompt-on-windows)
+- [tf.test.is_gpu_available(cuda_only=False, min_cuda_compute_capability=None) returns False](https://stackoverflow.com/questions/59009294/tf-test-is-gpu-availablecuda-only-false-min-cuda-compute-capability-none-retu)
+- [Should CountVectorizer be fit on both the train and test sets?](https://stackoverflow.com/questions/57306519/should-countvectorizer-be-fit-on-both-the-train-and-test-sets)
+- [Answer by Siddhant Sadangi for How to overwrite the previous print to stdout in python?](https://stackoverflow.com/questions/5419389/how-to-overwrite-the-previous-print-to-stdout-in-python/51638913#51638913)
+- [UnicodeDecodeError reading a CSV file](https://stackoverflow.com/questions/50342517/unicodedecodeerror-reading-a-csv-file)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
