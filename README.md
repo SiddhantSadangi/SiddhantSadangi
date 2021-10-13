@@ -21,6 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Manage Files in Google Colab](https://betterprogramming.pub/google-colab-dealing-with-files-49fce565c02d?source=rss-7df0f1b53a6c------2)
+- [Image Segmentation in Python](https://betterprogramming.pub/image-segmentation-python-7a838a464a84?source=rss-7df0f1b53a6c------2)
+- [Introduction to Image Augmentation in Python](https://betterprogramming.pub/introduction-to-image-augmentation-in-python-1691cbf8901f?source=rss-7df0f1b53a6c------2)
+- [Building An Interactive Desktop Dictionary App With Python](https://medium.com/analytics-vidhya/interactive-dictionary-with-python-6e34d35c053c?source=rss-7df0f1b53a6c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
