@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi" alt="siddhantsadangi" /></a> </p>
 
-- 🔭 I’m currently working on: **Anomaly Detection, and Upsell Prediction**
+- 🔭 I’m currently working on **Anomaly Detection, and Upsell Prediction**
 
-- 🌱 I’m currently learning: **JavaScript, AWS**
+- 🌱 I’m currently learning **JavaScript, AWS, and Streamlit**
 
-- 👨‍💻 See my developer journey [here](https://www.stackoverflow.com/story/siddhantsadangi)
+- 👨‍💻 See my developer journey **[here](https://www.stackoverflow.com/story/siddhantsadangi)**
 
-- 📝 I regularly write articles on [medium](https://www.medium.com/@siddhant.sadangi)
+- 📝 I regularly write articles on **[medium](https://www.medium.com/@siddhant.sadangi)**
 
-- 💬 Ask me about **Python, Machine Learning, Data Science, Tableau, SQL**
+- 💬 Ask me about **Python, Machine Learning, Data Science, Tableau, and SQL**
 
-- 📫 How to reach me: [siddhant.sadangi@gmail.com](mailto:siddhant.sadangi@gmail.com)
+- 📫 Reach me at **[siddhant.sadangi@gmail.com](mailto:siddhant.sadangi@gmail.com)**
 
-- 📄 My CV is available [here](https://www.linkedin.com/in/siddhantsadangi/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABIxU74B_6N4dPq5QriUyxwcgt5W2gr6rdY,1635470868779)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9qJx6Id1QBWyEwqymAiVzA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)
+- 📄 My CV is available **[here](https://www.linkedin.com/in/siddhantsadangi/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABIxU74B_6N4dPq5QriUyxwcgt5W2gr6rdY,1635470868779)/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9qJx6Id1QBWyEwqymAiVzA%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-featured_item_detail_view)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
