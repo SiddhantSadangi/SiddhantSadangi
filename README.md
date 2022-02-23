@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, I am Siddhant</h1>
 <h3 align="center">I am currently working as a Data Scientist and Software Engineer at <a href="https://www.reuters.com">Reuters News</a> where I help discover and predict media engagement trends, traffic and usage anomalies, upselling opportunities, customer churn, and perform ad-hoc analysis for the Editorial and Marketing teams. Also working as a Freelance Content Creator for <a href="https://www.neptune.ai">Neptune.ai</a>, an MLOps platform, where I co-own their documentation styleguide and have been instrumental in designing and drafting their documentation and product comparison pages. My previous experience includes 3.5 years of ETL experience in support, development, and testing roles in <a href="https://www2.deloitte.com/in/en.html">Deloitte</a> for clients in the life-sciences sector.</h3>
 
-- 🔭 I’m currently working on **Anomaly Detection, and Upsell Prediction**
+- 🔭 I’m currently working on an Image processing Streamlit app - **[Image WorkDesk](https://share.streamlit.io/siddhantsadangi/imageworkdesk/app.py)**
 - 🌱 I’m currently learning **JavaScript, AWS, and Streamlit**
 - 👨‍💻 See my developer journey **[here](https://www.stackoverflow.com/story/siddhantsadangi)**
 - 📝 I regularly write articles on **[medium](https://www.medium.com/@siddhant.sadangi)**
