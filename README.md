@@ -41,3 +41,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddhantsadangi&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhantsadangi&show_icons=true&theme=dark&locale=en" alt="siddhantsadangi" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi" alt="siddhantsadangi" /></a> </p>
+
+<a href="https://www.buymeacoffee.com/siddhantsadangi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
