@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, I am Siddhant</h1>
+
 <h3 align="center">I am currently working as an ML Developer Advocate with <a href="https://www.neptune.ai">Neptune.ai</a>, one of the leading MLOps SaaS platforms. I work on integrating Neptune with other ML tools, and also on its documentation and competitor comparison pages. Previously, I was a Data Scientist and Full-Stack Developer at <a href="https://www.reuters.com">Reuters News</a> where I helped discover and predict media engagement trends, traffic and usage anomalies, upsell and cross-sell opportunities, customer churn, and performed ad-hoc analysis for the Editorial, Marketing, and Product teams. I also have 3.5 years of ETL experience in support, development, and testing roles with <a href="https://www2.deloitte.com/in/en.html">Deloitte</a> for clients in the life-sciences sector.</h3>
 <hr/>
 
@@ -53,6 +54,10 @@
 <p align="center">
   <img height= "160" src="https://github-readme-stats.vercel.app/api?username=siddhantsadangi&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
   <img height= "160" src="https://github-readme-streak-stats.herokuapp.com?user=siddhantsadangi&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="SiddhantSadangi"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Candida18"><img src="https://activity-graph.herokuapp.com/graph?username=siddhantsadangi&custom_title=Siddhant's%20Contribution%20Graph&bg_color=1a1b27&color=70a4fc&line=be91f2&point=4c4c54"/></a>
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi" alt="SiddhantSadangi" /></a> </p>
