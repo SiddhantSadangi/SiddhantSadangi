@@ -4,7 +4,7 @@
 <hr/>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1MP9AFiOa9xznDzt2JRZi8FyKTlF0M_6n/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
+  <a href="https://drive.google.com/file/d/1eFdrBjrgM8qbKfqAeossCaeXAEpKYv8a/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
 </p>
 <hr/>
 
