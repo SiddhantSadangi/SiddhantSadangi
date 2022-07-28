@@ -57,14 +57,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Candida18"><img src="https://activity-graph.herokuapp.com/graph?username=siddhantsadangi&custom_title=Siddhant's%20Contribution%20Graph&bg_color=1a1b27&color=70a4fc&line=be91f2&point=4c4c54"/></a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=siddhantsadangi&custom_title=Siddhant's%20Contribution%20Graph&bg_color=1a1b27&color=70a4fc&line=be91f2&point=4c4c54"/></a>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi" alt="SiddhantSadangi" /></a> </p>
+<p align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi" alt="SiddhantSadangi" /></a> </p>
 <hr/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhantsadangi&label=Profile%20views&style=for-the-badge" alt="kanchitank"/>
+  <img src="https://komarev.com/ghpvc/?username=siddhantsadangi&label=Profile%20views&style=for-the-badge" alt="SiddhantSadangi"/>
 </p>
 <hr/>
 
