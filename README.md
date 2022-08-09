@@ -10,9 +10,9 @@
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
-  
-  [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhantsadangi)
+
   [![image](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhant.sadangi@gmail.com)
+  [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhantsadangi)
   [![image](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@siddhantsadangi)
 
 </div>
@@ -20,30 +20,14 @@
 
 <h2 align="center">Tech Stack</h2>
 <p align="center">
-  <a>
-    <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  <a>
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white">
-  </a>
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white">
-  </a>
-  <a>
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-4f6578?style=for-the-badge&logo=GitHub&logoColor=white">
-  </a>
-  <a>
-    <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-FF9900?style=for-the-badge&logo=Amazon+AWS&logoColor=white">
-  </a>
-  <a>
-    <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-004281?style=for-the-badge&logo=Tableau&logoColor=white">
-  </a>
-  <a>
-    <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-F24747?style=for-the-badge&logo=Streamlit&logoColor=white">
-  </a>
-  <a>
-    <img alt="scikitlearn" src="https://img.shields.io/badge/-scikitlearn-EB9136?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  </a>
+  <a><img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-FF9900?style=for-the-badge&logo=Amazon+AWS&logoColor=white"></a>
+  <a><img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white"></a>
+  <a><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-4f6578?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=MySQL&logoColor=white"></a>
+  <a><img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a><img alt="scikitlearn" src="https://img.shields.io/badge/-scikitlearn-EB9136?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>
+  <a><img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-F24747?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
+  <a><img alt="Tableau" src="https://img.shields.io/badge/-Tableau-004281?style=for-the-badge&logo=Tableau&logoColor=white"></a>
 </p>
 
 <p align='center'>
