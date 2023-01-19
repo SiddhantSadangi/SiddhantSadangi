@@ -31,17 +31,17 @@
 </p>
 
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhantsadangi&show_icons=true&theme=dark&locale=en&layout=compact" alt="siddhantsadangi" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=siddhantsadangi&show_icons=true&theme=dark&locale=en&layout=compact" alt="siddhantsadangi" />
 </p>
 <hr/>
 
 <p align="center">
-  <img height= "160" src="https://github-readme-stats.vercel.app/api?username=siddhantsadangi&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
+  <img height= "160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddhantsadangi&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
   <img height= "160" src="https://github-readme-streak-stats.herokuapp.com?user=siddhantsadangi&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="SiddhantSadangi"/>
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=siddhantsadangi&custom_title=Siddhant's%20Contribution%20Graph&bg_color=1a1b27&color=70a4fc&line=be91f2&point=4c4c54"/></a>
+  <img src="[![Siddhant's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SiddhantSadangi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)"/></a>
 </p>
 
 <p align="center"> 
