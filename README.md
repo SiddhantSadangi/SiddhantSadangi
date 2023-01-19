@@ -40,9 +40,7 @@
   <img height= "160" src="https://github-readme-streak-stats.herokuapp.com?user=siddhantsadangi&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="SiddhantSadangi"/>
 </p>
 
-<p align="center">
-  <img src="[![Siddhant's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SiddhantSadangi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)"/></a>
-</p>
+[![Siddhant's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SiddhantSadangi&&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> 
 <img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi" alt="SiddhantSadangi" /></a> </p>
