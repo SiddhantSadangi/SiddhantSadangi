@@ -3,11 +3,6 @@
 <h3 align="center">I am currently working as an ML Developer Advocate with <a href="https://www.neptune.ai">Neptune.ai</a>, one of the leading MLOps SaaS platforms. I work on integrating Neptune with other ML tools, and also on its documentation and competitor comparison pages. Previously, I was a Data Scientist and Full-Stack Developer at <a href="https://www.reuters.com">Reuters News</a> where I helped discover and predict media engagement trends, traffic and usage anomalies, upsell and cross-sell opportunities, customer churn, and performed ad-hoc analysis for the Editorial, Marketing, and Product teams. I also have 3.5 years of ETL experience in support, development, and testing roles with <a href="https://www2.deloitte.com/in/en.html">Deloitte</a> for clients in the life-sciences sector.</h3>
 <hr/>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1PJj8tvqGRaxKbX6Ir5GJbQzeiVymbIZ6/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-9775c2?style=for-the-badge"></a>
-</p>
-<hr/>
-
 <h2 align="center">Connect with me</h2>
 <div align="center">
 
