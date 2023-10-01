@@ -1,13 +1,14 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, I am Siddhant</h1>
 
-<h3 align="center">I am currently working as an ML Developer Advocate with <a href="https://www.neptune.ai">Neptune.ai</a>, one of the leading MLOps SaaS platforms. I work on integrating Neptune with other ML tools, and also on its documentation and competitor comparison pages. Previously, I was a Data Scientist and Full-Stack Developer at <a href="https://www.reuters.com">Reuters News</a> where I helped discover and predict media engagement trends, traffic and usage anomalies, upsell and cross-sell opportunities, customer churn, and performed ad-hoc analysis for the Editorial, Marketing, and Product teams. I also have 3.5 years of ETL experience in support, development, and testing roles with <a href="https://www2.deloitte.com/in/en.html">Deloitte</a> for clients in the life-sciences sector.</h3>
+<p align="center">As an ML Developer Advocate at <a href="https://www.neptune.ai">neptune.ai</a>, a leading SaaS MLOps platform, I drive technical sales support by creating example projects and demos and provide top-notch technical support to our paying customers. My contributions to documentation, product comparison pages, and engagement with the developer community on social channels have helped solidify our position in the market. With a background as a Data Scientist and Full-Stack Developer at <a href="https://www.reuters.com">Reuters</a>, I generated over $3M in Annual Recurring Revenue through my work on models, pipelines, and analyses for various teams. My four years of ETL development experience at <a href="https://www2.deloitte.com/in/en.html">Deloitte</a> further enhances my expertise in the field.</p>
+
 <hr/>
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
 
-  [![image](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhant.sadangi@gmail.com)
   [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhantsadangi)
+  [![image](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhant.sadangi@gmail.com)
   [![image](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@siddhantsadangi)
 
 </div>
