@@ -1,6 +1,8 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30">, I am Siddhant</h1>
+<h1 align="center">Hi 👋, I am Siddhant</h1>
 
-<p align="center">As an ML Developer Advocate at <a href="https://www.neptune.ai">neptune.ai</a>, a leading SaaS MLOps platform, I drive technical sales support by creating example projects and demos and provide top-notch technical support to our paying customers. My contributions to documentation, product comparison pages, and engagement with the developer community on social channels have helped solidify our position in the market. With a background as a Data Scientist and Full-Stack Developer at <a href="https://www.reuters.com">Reuters</a>, I generated over $3M in Annual Recurring Revenue through my work on models, pipelines, and analyses for various teams. My four years of ETL development experience at <a href="https://www2.deloitte.com/in/en.html">Deloitte</a> further enhances my expertise in the field.</p>
+<hr/>
+
+<h3 align="center">As an ML Developer Advocate at <a href="https://www.neptune.ai">neptune.ai</a>, a leading SaaS MLOps platform, I drive technical sales support by creating example projects and demos and provide top-notch technical support to our paying customers. My contributions to documentation, product comparison pages, and engagement with the developer community on social channels have helped solidify our position in the market. With a background as a Data Scientist and Full-Stack Developer at <a href="https://www.reuters.com">Reuters</a>, I generated over $3M in Annual Recurring Revenue through my work on models, pipelines, and analyses for various teams. My four years of ETL development experience at <a href="https://www2.deloitte.com/in/en.html">Deloitte</a> further enhances my expertise in the field.</h3>
 
 <hr/>
 
