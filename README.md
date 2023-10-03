@@ -41,7 +41,7 @@
 [![Siddhant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiddhantSadangi&&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi" alt="SiddhantSadangi" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi&theme=algolia&column=-1" alt="SiddhantSadangi" /></a> </p>
 <hr/>
 
 <p align="center">
