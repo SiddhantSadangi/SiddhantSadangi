@@ -29,16 +29,14 @@
 </p>
 
 <p align='center'>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=siddhantsadangi&show_icons=true&theme=dark&locale=en&layout=compact" alt="siddhantsadangi" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=siddhantsadangi&show_icons=true&theme=dark&locale=en&layout=compact" alt="Siddhant Sadangi's GitHub stats" />
 </p>
 <hr/>
 
 <p align="center">
-  <img height= "160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddhantsadangi&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
-  <img height= "160" src="https://github-readme-streak-stats.herokuapp.com?user=siddhantsadangi&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="SiddhantSadangi"/>
+  <img height=185 src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddhantsadangi&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
+  <img height=185 src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhantSadangi&&theme=github-compact" alt="Siddhant's github activity graph"/>
 </p>
-
-[![Siddhant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiddhantSadangi&&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center"> 
 <img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi&theme=algolia&column=-1" alt="SiddhantSadangi" /></a> </p>
