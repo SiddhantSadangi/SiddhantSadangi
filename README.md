@@ -27,16 +27,12 @@
   <a><img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-F24747?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
   <a><img alt="Tableau" src="https://img.shields.io/badge/-Tableau-004281?style=for-the-badge&logo=Tableau&logoColor=white"></a>
 </p>
-
-<p align='center'>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=siddhantsadangi&show_icons=true&theme=dark&locale=en&layout=compact" alt="Siddhant Sadangi's GitHub stats" />
-</p>
 <hr/>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddhantsadangi&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhantSadangi&&theme=github-compact" alt="Siddhant's github activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhantSadangi&&theme=github-compact" alt="My GitHub activity graph"/>
 
 <p align="center"> 
 <img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi&theme=algolia&column=-1" alt="SiddhantSadangi" /></a> </p>
