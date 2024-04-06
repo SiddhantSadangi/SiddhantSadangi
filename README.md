@@ -25,7 +25,9 @@
   <a><img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"></a>
   <a><img alt="scikitlearn" src="https://img.shields.io/badge/-scikitlearn-EB9136?style=for-the-badge&logo=scikitlearn&logoColor=white"></a>
   <a><img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-F24747?style=for-the-badge&logo=Streamlit&logoColor=white"></a>
+  <a><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></a>
   <a><img alt="Tableau" src="https://img.shields.io/badge/-Tableau-004281?style=for-the-badge&logo=Tableau&logoColor=white"></a>
+  <a><img alt="Teradata" src="https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white"></a>
 </p>
 <hr/>
 
