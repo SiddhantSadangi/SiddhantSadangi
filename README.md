@@ -31,7 +31,8 @@
 </p>
 <hr/>
 
-<p align="center">
+<p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SiddhantSadangi&theme=github-dark" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddhantsadangi&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhantSadangi&&theme=github-compact" alt="My GitHub activity graph"/>
