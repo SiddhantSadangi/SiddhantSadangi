@@ -31,14 +31,13 @@
 </p>
 <hr/>
 
-<p>
+<p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SiddhantSadangi&theme=github-dark" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddhantsadangi&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhantSadangi&&theme=github-compact" alt="My GitHub activity graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi&theme=algolia&column=-1" alt="SiddhantSadangi" /></a> </p>
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhantSadangi&&theme=github-compact" alt="My GitHub activity graph"/>
 
-<p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi&theme=algolia&column=-1" alt="SiddhantSadangi" /></a> </p>
 <hr/>
 
 <p align="center">
@@ -47,5 +46,5 @@
 <hr/>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/siddhantsadangi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+  <a href="https://www.buymeacoffee.com/siddhantsadangi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
 </p>
