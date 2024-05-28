@@ -2,9 +2,11 @@
 
 <hr/>
 
-<h3 align="center">
-  As an ML Developer Advocate at <a href="https://www.neptune.ai">neptune.ai</a>, a leading SaaS MLOps platform, I drive technical sales support by creating example projects and demos, provide top-notch technical support to our paying customers, contribute directly to Neptune’s Python client through bugfixes and shipping user-requested features, and act as the bridge between Neptune’s users and Neptune’s customer success, product, and engineering teams. With a background as a Data Scientist and Full-Stack Developer at <a href="https://www.reuters.com">Reuters</a>, I generated over $3M in Annual Recurring Revenue through my work on models, pipelines, webapps, and analyses for editorial and sales teams. My four years of ETL development experience at <a href="https://www2.deloitte.com/in/en.html">Deloitte</a> further enhances my expertise in the data field.
-</h3>
+<h4 align="center">
+  As an ML Developer Advocate at <a href="https://www.neptune.ai">neptune.ai</a>, a leading SaaS MLOps platform, I drive technical sales support by creating example projects and demos, provide top-notch technical support to our paying customers, contribute directly to Neptune’s Python client through bugfixes and shipping user-requested features, and act as the bridge between Neptune’s users and Neptune’s customer success, product, and engineering teams. With a background as a Data Scientist and Full-Stack Developer at <a href="https://www.reuters.com">Reuters</a>, I generated over $3M in Annual Recurring Revenue through my work on models, pipelines, web apps, and analyses for editorial and sales teams. My four years of ETL development experience at <a href="https://www2.deloitte.com/in/en.html">Deloitte</a> further enhances my expertise in the data field.
+<br><br>
+When I am not working, I am creating Streamlit apps and components. I am the maintainer of <a href="https://github.com/SiddhantSadangi/st_supabase_connection">st_supabase_connection</a> - a Streamlit Connector for Supabase database, storage, and auth, and <a href="https://github.com/SiddhantSadangi/st_login_form">st_login_form</a> - a one-line Authentication UI for Streamlit apps.
+</h4>
 
 <hr/>
 
