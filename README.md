@@ -16,12 +16,12 @@
     <tr>
       <td><a href="https://github.com/SiddhantSadangi/st_supabase_connection">st_supabase_connection</a></td>
       <td>Streamlit Connector for Supabase database, storage, and auth</td>
-      <td> <img src="https://static.pepy.tech/personalized-badge/st-supabase-connection?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads"></td>
+      <td> <a href="https://pepy.tech/project/st-supabase-connection"><img src="https://static.pepy.tech/personalized-badge/st-supabase-connection?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads"></a></td>
     </tr>
       <tr>
       <td><a href="https://github.com/SiddhantSadangi/st_login_form">st_login_form</a</td>
       <td>A one-line authentication UI for Streamlit apps</td>
-      <td> <img src="https://static.pepy.tech/personalized-badge/st-login-form?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads"></td>
+      <td> <a href="https://pepy.tech/project/st-login-form"><img src="https://static.pepy.tech/personalized-badge/st-login-form?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads"></a></td>
     </tr>
   </table>
   
