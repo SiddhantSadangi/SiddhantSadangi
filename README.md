@@ -2,7 +2,7 @@
 
 <hr/>
 
-<h4 align="center">
+<h3 align="center">
   As an ML Developer Advocate at <a href="https://www.neptune.ai">neptune.ai</a>, a leading SaaS MLOps platform, I drive technical sales support by creating example projects and demos, provide top-notch technical support to our paying customers, contribute directly to Neptune’s Python client through bugfixes and shipping user-requested features, and act as the bridge between Neptune’s users and Neptune’s customer success, product, and engineering teams. With a background as a Data Scientist and Full-Stack Developer at <a href="https://www.reuters.com">Reuters</a>, I generated over $3M in Annual Recurring Revenue through my work on models, pipelines, web apps, and analyses for editorial and sales teams. My four years of ETL development experience at <a href="https://www2.deloitte.com/in/en.html">Deloitte</a> further enhances my expertise in the data field.
 <br><br>
   In my personal time, I also create Streamlit apps and components. I am the maintainer of the below open-source projects<br><br>
@@ -25,7 +25,7 @@
     </tr>
   </table>
   
-</h4>
+</h3>
 
 <hr/>
 
