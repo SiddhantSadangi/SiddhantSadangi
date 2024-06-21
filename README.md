@@ -5,7 +5,26 @@
 <h4 align="center">
   As an ML Developer Advocate at <a href="https://www.neptune.ai">neptune.ai</a>, a leading SaaS MLOps platform, I drive technical sales support by creating example projects and demos, provide top-notch technical support to our paying customers, contribute directly to Neptune’s Python client through bugfixes and shipping user-requested features, and act as the bridge between Neptune’s users and Neptune’s customer success, product, and engineering teams. With a background as a Data Scientist and Full-Stack Developer at <a href="https://www.reuters.com">Reuters</a>, I generated over $3M in Annual Recurring Revenue through my work on models, pipelines, web apps, and analyses for editorial and sales teams. My four years of ETL development experience at <a href="https://www2.deloitte.com/in/en.html">Deloitte</a> further enhances my expertise in the data field.
 <br><br>
-When I am not working, I am creating Streamlit apps and components. I am the maintainer of <a href="https://github.com/SiddhantSadangi/st_supabase_connection">st_supabase_connection</a> - a Streamlit Connector for Supabase database, storage, and auth, and <a href="https://github.com/SiddhantSadangi/st_login_form">st_login_form</a> - a one-line Authentication UI for Streamlit apps.
+  In my personal time, I also create Streamlit apps and components. I am the maintainer of the below open-source projects<br><br>
+
+  <table align="center">
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Downloads</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/SiddhantSadangi/st_supabase_connection">st_supabase_connection</a></td>
+      <td>Streamlit Connector for Supabase database, storage, and auth</td>
+      <td> <img src="https://static.pepy.tech/personalized-badge/st-supabase-connection?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads"></td>
+    </tr>
+      <tr>
+      <td><a href="https://github.com/SiddhantSadangi/st_login_form">st_login_form</a</td>
+      <td>A one-line authentication UI for Streamlit apps</td>
+      <td> <img src="https://static.pepy.tech/personalized-badge/st-login-form?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads"></td>
+    </tr>
+  </table>
+  
 </h4>
 
 <hr/>
