@@ -2,31 +2,42 @@
 
 <hr/>
 
-<h3 align="center">
+<h4 align="center">
   As an ML Developer Advocate at <a href="https://www.neptune.ai">neptune.ai</a>, a leading SaaS MLOps platform, I drive technical sales support by creating example projects and demos, provide top-notch technical support to our paying customers, contribute directly to Neptune’s Python client through bugfixes and shipping user-requested features, and act as the bridge between Neptune’s users and Neptune’s customer success, product, and engineering teams. With a background as a Data Scientist and Full-Stack Developer at <a href="https://www.reuters.com">Reuters</a>, I generated over $3M in Annual Recurring Revenue through my work on models, pipelines, web apps, and analyses for editorial and sales teams. My four years of ETL development experience at <a href="https://www2.deloitte.com/in/en.html">Deloitte</a> further enhances my expertise in the data field.
 <br><br>
-  In my personal time, I also create Streamlit apps and components. I am the maintainer of the below open-source projects<br><br>
+  In my personal time, I also create Streamlit apps and components. I am the maintainer of the below open-source projects, among others:<br><br>
 
-  <table align="center">
+ <table align="center">
     <tr>
       <th>Name</th>
       <th>Description</th>
-      <th>Downloads</th>
+      <th></th>
     </tr>
     <tr>
       <td><a href="https://github.com/SiddhantSadangi/st_supabase_connection">st_supabase_connection</a></td>
       <td>Streamlit Connector for Supabase database, storage, and auth</td>
-      <td> <a href="https://pepy.tech/project/st-supabase-connection"><img src="https://static.pepy.tech/personalized-badge/st-supabase-connection?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads"></a></td>
+      <td> <a href="https://pepy.tech/project/st-supabase-connection"><img src="https://static.pepy.tech/personalized-badge/st-supabase-connection?period=total&units=international_system&left_text=Downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_supabase_connection?style=flat&labelColor=black"></td>
     </tr>
       <tr>
       <td><a href="https://github.com/SiddhantSadangi/st_login_form">st_login_form</a</td>
       <td>A one-line authentication UI for Streamlit apps</td>
-      <td> <a href="https://pepy.tech/project/st-login-form"><img src="https://static.pepy.tech/personalized-badge/st-login-form?period=total&units=international_system&left_color=black&right_color=brightgreen&left_text=Downloads"></a></td>
+      <td> <a href="https://pepy.tech/project/st-login-form"><img src="https://static.pepy.tech/personalized-badge/st-login-form?period=total&units=international_system&left_text=Downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_login_form?style=flat&labelColor=black"></td>
+    </tr>
+      </tr>
+      <tr>
+      <td><a href=https://github.com/SiddhantSadangi/pdf-workdesk">PDF WorkDesk</a</td>
+      <td>A Streamlit application for editing PDF documents.</td>
+      <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/pdf-workdesk?style=flat&labelColor=black"></td>
+    </tr>
+       </tr>
+      </tr>
+      <tr>
+      <td><a href=https://github.com/SiddhantSadangi/st_deepgram_playground">Deepgram API Playground</a</td>
+      <td>API playground for Deepgram's Speech-to-Text API built with Streamlit.</td>
+      <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_deepgram_playground?style=flat&labelColor=black"></td>
     </tr>
   </table>
-  
-</h3>
-
+  </h4>
 <hr/>
 
 <h2 align="center">Connect with me</h2>
@@ -64,6 +75,7 @@
 <hr/>
 
 <p align="center">
+  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/SiddhantSadangi?style=flat-square">
   <img src="https://komarev.com/ghpvc/?username=siddhantsadangi&label=Profile%20views&style=for-the-badge" alt="SiddhantSadangi"/>
 </p>
 <hr/>
