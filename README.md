@@ -76,7 +76,7 @@
 <hr/>
 
 <p align="center">
-  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/SiddhantSadangi?style=flat-square">
+  <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/SiddhantSadangi?style=for-the-badge">
   <img src="https://komarev.com/ghpvc/?username=siddhantsadangi&label=Profile%20views&style=for-the-badge" alt="SiddhantSadangi"/>
 </p>
 <hr/>
