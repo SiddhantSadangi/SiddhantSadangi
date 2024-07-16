@@ -15,24 +15,21 @@
       <th></th>
     </tr>
     <tr>
-      <td><a href="https://github.com/SiddhantSadangi/st_supabase_connection">st_supabase_connection</a></td>
-      <td>Streamlit Connector for Supabase database, storage, and auth</td>
-      <td> <a href="https://pepy.tech/project/st-supabase-connection"><img src="https://static.pepy.tech/personalized-badge/st-supabase-connection?period=total&units=international_system&left_text=Downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_supabase_connection?style=flat&labelColor=black"></td>
-    </tr>
-      <tr>
       <td><a href="https://github.com/SiddhantSadangi/st_login_form">st_login_form</a</td>
       <td>A one-line authentication UI for Streamlit apps</td>
       <td> <a href="https://pepy.tech/project/st-login-form"><img src="https://static.pepy.tech/personalized-badge/st-login-form?period=total&units=international_system&left_text=Downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_login_form?style=flat&labelColor=black"></td>
     </tr>
-      </tr>
-      <tr>
+    <tr>
+      <td><a href="https://github.com/SiddhantSadangi/st_supabase_connection">st_supabase_connection</a></td>
+      <td>Streamlit Connector for Supabase database, storage, and auth</td>
+      <td> <a href="https://pepy.tech/project/st-supabase-connection"><img src="https://static.pepy.tech/personalized-badge/st-supabase-connection?period=total&units=international_system&left_text=Downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_supabase_connection?style=flat&labelColor=black"></td>
+    </tr>
+    <tr>
       <td><a href=https://github.com/SiddhantSadangi/pdf-workdesk">PDF WorkDesk</a</td>
       <td>A Streamlit application for editing PDF documents.</td>
       <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/pdf-workdesk?style=flat&labelColor=black"></td>
     </tr>
-       </tr>
-      </tr>
-      <tr>
+    <tr>
       <td><a href=https://github.com/SiddhantSadangi/st_deepgram_playground">Deepgram API Playground</a</td>
       <td>API playground for Deepgram's Speech-to-Text API built with Streamlit.</td>
       <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_deepgram_playground?style=flat&labelColor=black"></td>
