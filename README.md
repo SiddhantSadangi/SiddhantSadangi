@@ -25,12 +25,12 @@
       <td> <a href="https://pepy.tech/project/st-supabase-connection"><img src="https://static.pepy.tech/personalized-badge/st-supabase-connection?period=total&units=international_system&left_text=Downloads"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_supabase_connection?style=flat&labelColor=black"></td>
     </tr>
     <tr>
-      <td><a href=https://github.com/SiddhantSadangi/pdf-workdesk">PDF WorkDesk</a</td>
+      <td><a href="https://github.com/SiddhantSadangi/pdf-workdesk">PDF WorkDesk</a</td>
       <td>A Streamlit application for editing PDF documents.</td>
       <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/pdf-workdesk?style=flat&labelColor=black"></td>
     </tr>
     <tr>
-      <td><a href=https://github.com/SiddhantSadangi/st_deepgram_playground">Deepgram API Playground</a</td>
+      <td><a href="https://github.com/SiddhantSadangi/st_deepgram_playground">Deepgram API Playground</a</td>
       <td>API playground for Deepgram's Speech-to-Text API built with Streamlit.</td>
       <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_deepgram_playground?style=flat&labelColor=black"></td>
     </tr>
