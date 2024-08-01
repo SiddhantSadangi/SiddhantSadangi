@@ -7,7 +7,7 @@
 <br><br>
 </h3>
 <h4 align="center">
-  In my personal time, I also create Streamlit apps and components. I am the maintainer of the below open-source projects, among others:<br><br>
+  In my personal time, I also create Streamlit apps and components. I am a recognized <a href="https://streamlit.io/creators">Streamlit Creator</a> and the maintainer of the below open-source projects, among others:<br><br>
  <table align="center">
     <tr>
       <th>Name</th>
