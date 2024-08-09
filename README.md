@@ -14,6 +14,7 @@
     <li> <a href="https://github.com/SiddhantSadangi/st_supabase_connection">st_supabase_connection</a>: Streamlit Connector for Supabase database, storage, and auth. <a href="https://pepy.tech/project/st-supabase-connection"><img src="https://static.pepy.tech/personalized-badge/st-supabase-connection?period=total&units=international_system&left_text=Downloads&left_color=Gray"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_supabase_connection?style=flat"> </li>
     <li> <a href="https://github.com/SiddhantSadangi/pdf-workdesk">PDF WorkDesk</a>: A Streamlit application for editing PDF documents. <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/pdf-workdesk?style=flat"> </li>
     <li> <a href="https://github.com/SiddhantSadangi/st_deepgram_playground">Deepgram API Playground</a>: API playground for Deepgram's Speech-to-Text API built with Streamlit. <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_deepgram_playground?style=flat"> </li>
+    <li> <a href="https://github.com/SiddhantSadangi/ImageWorkdesk"> Image WorkDesk</a>: A Streamlit-based Image Editor. <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/ImageWorkdesk?style=flat"> </li>
   </ul>
 <hr/>
 
