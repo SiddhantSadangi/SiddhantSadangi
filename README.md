@@ -16,7 +16,11 @@
     <li> <a href="https://github.com/SiddhantSadangi/st_deepgram_playground">Deepgram API Playground</a>: API playground for Deepgram's Speech-to-Text API built with Streamlit. <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_deepgram_playground?style=flat"> </li>
     <li> <a href="https://github.com/SiddhantSadangi/ImageWorkdesk"> Image WorkDesk</a>: A Streamlit-based Image Editor. <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/ImageWorkdesk?style=flat"> </li>
   </ul>
+
+<h4 align="center"> You can find all my Streamlit apps <a href="https://share.streamlit.io/user/siddhantsadangi">here</a>.</h4>
+
 <hr/>
+
 
 <h2 align="center">Connect with me</h2>
 <div align="center">
