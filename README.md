@@ -7,7 +7,7 @@
 <br><br>
 </h3>
 <h4 align="center">
-  In my personal time, I also create Streamlit apps and components. I am a recognized <a href="https://streamlit.io/creators">Streamlit Creator</a> and the maintainer of the below open-source projects, among others:<br><be>
+  In my personal time, I also create Streamlit apps and components. I am a recognized <a href="https://www.linkedin.com/posts/streamlit_siddhantsadangi-activity-7225215716130443265-hZhb">Streamlit Creator</a> and the maintainer of the below open-source projects, among others:<br><be>
 </h4>
   <ul> 
     <li> <a href="https://github.com/SiddhantSadangi/st_login_form">st_login_form</a>: A one-line authentication UI for Streamlit apps. <a href="https://pepy.tech/project/st-login-form"><img src="https://static.pepy.tech/personalized-badge/st-login-form?period=total&units=international_system&left_text=Downloads&left_color=Gray"></a> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/st_login_form?style=flat"> </li>
@@ -17,7 +17,7 @@
     <li> <a href="https://github.com/SiddhantSadangi/ImageWorkdesk"> Image WorkDesk</a>: A Streamlit-based Image Editor. <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/SiddhantSadangi/ImageWorkdesk?style=flat"> </li>
   </ul>
 
-<h4 align="center"> You can find all my Streamlit apps <a href="https://share.streamlit.io/user/siddhantsadangi">here</a>.</h4>
+<h3 align="center"> You can find all my Streamlit apps <a href="https://share.streamlit.io/user/siddhantsadangi">here</a>.</h3>
 
 <hr/>
 
