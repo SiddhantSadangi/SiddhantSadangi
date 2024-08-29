@@ -26,6 +26,7 @@
 <div align="center">
 
   [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhantsadangi)
+  [![image](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=X&logoColor=black)](https://x.com/SiddhantSadangi)
   [![image](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhant.sadangi@gmail.com)
 
 </div>
