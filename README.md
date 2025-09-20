@@ -43,9 +43,7 @@ A few things I’ve built for developers:
 
 ### 📊 My Dev Activity
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SiddhantSadangi&theme=github-dark" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddhantsadangi&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiddhantSadangi&&theme=github-compact" alt="My GitHub activity graph"/>
   <img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi&theme=algolia&column=-1" alt="SiddhantSadangi" />
 </p>
 
