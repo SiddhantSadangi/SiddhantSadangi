@@ -13,18 +13,7 @@
 
 ### 📘 My Book
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img width="618" height="800" alt="image" src="https://github.com/user-attachments/assets/dbd9b0c2-07f7-4e74-8750-f96ca266aa32" />
-      </td>
-      <td>
-        <a href="https://orangeava.com/products/building-data-apps-with-streamlit"><strong>Building Data Apps with Streamlit</strong></a>: Create dynamic dashboards, machine learning workflows, and AI chatbots with Streamlit and Python.
-      </td>
-    </tr>
-  </tbody>
-</table>
+<a href="https://orangeava.com/products/building-data-apps-with-streamlit"><img width="309" height="400" alt="image" src="https://github.com/user-attachments/assets/dbd9b0c2-07f7-4e74-8750-f96ca266aa32" /></a>
 
 ---
 
