@@ -4,7 +4,8 @@
 
 <h3 align="center">
   I build tools, content, and communities that help developers get more done with less friction.  
-  Most recently, I was improving developer experience at <a href="https://www.neptune.ai">neptune.ai</a> (acquired by OpenAI), where I created <a href="https://github.com/neptune-ai/scale-examples">code recipes</a>, <a href="https://www.youtube.com/playlist?list=PLzpzdz-hobreBTmZwnn3orHOgUQDuDiIt">demos</a>, and <a href="https://docs.neptune.ai/">documentation</a> to help users from frontier research labs like OpenAI and enterprises like Samsung succeed.    
+  <br><br>
+  Currently, I am a Member of Support and Community Staff at <a href="https://www.oopenai.com">OpenAI</a>. Previouslly, I was improving developer experience at <a href="https://www.neptune.ai">neptune.ai</a> (acquired by OpenAI), where I created <a href="https://github.com/neptune-ai/scale-examples">code recipes</a>, <a href="https://www.youtube.com/playlist?list=PLzpzdz-hobreBTmZwnn3orHOgUQDuDiIt">demos</a>, and <a href="https://docs.neptune.ai/">documentation</a> to help users from frontier research labs like OpenAI and enterprises like Samsung succeed.    
 <br><br>
   Recognized as a <a href="https://streamlit.io/creators">Streamlit Creator</a> and <a href="https://discuss.streamlit.io/g/community-moderators">Community Moderator</a> for supporting and growing the Streamlit developer community.  
 </h3>
