@@ -1,18 +1,14 @@
-<h1 align="center">Hey 👋, I’m Siddhant</h1>
+# Hey, I’m Siddhant
+
+I help developers succeed with AI and data apps through support, technical content, open-source examples, and community.
+
+I currently work in Developer Support at [OpenAI](https://openai.com/), where I help developers use AI products successfully and bring developer feedback closer to the product experience. Previously, I worked on developer experience at [neptune.ai](https://neptune.ai/), creating docs, examples, code recipes, and demos for ML teams.
+
+I’m also the author of **Building Data Apps with Streamlit**, a recognized [Streamlit Creator](https://streamlit.io/creators), and a Streamlit Community Moderator.
 
 ---
 
-<h3 align="center">
-  I build tools, content, and communities that help developers get more done with less friction.  
-  <br><br>
-  Currently, I am a Member of Support and Community Staff at <a href="https://www.openai.com">OpenAI</a>. Previously, I was improving developer experience at <a href="https://www.neptune.ai">neptune.ai</a> (acquired by OpenAI), where I created <a href="https://github.com/neptune-ai/scale-examples">code recipes</a>, <a href="https://www.youtube.com/playlist?list=PLzpzdz-hobreBTmZwnn3orHOgUQDuDiIt">demos</a>, and <a href="https://docs.neptune.ai/">documentation</a> to help users from frontier research labs like OpenAI and enterprises like Samsung succeed.    
-<br><br>
-  Recognized as a <a href="https://streamlit.io/creators">Streamlit Creator</a> and <a href="https://discuss.streamlit.io/g/community-moderators">Community Moderator</a> for supporting and growing the Streamlit developer community.  
-</h3>
-
----
-
-### 📘 My Book
+### My Book
 
 <a href="https://www.amazon.com/Building-Data-Apps-Streamlit-Dashboards/dp/9349887843"><img width="309" height="400" alt="image" src="https://github.com/user-attachments/assets/dbd9b0c2-07f7-4e74-8750-f96ca266aa32" /></a>
 
