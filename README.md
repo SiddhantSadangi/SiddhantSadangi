@@ -5,7 +5,7 @@
 <h3 align="center">
   I build tools, content, and communities that help developers get more done with less friction.  
   <br><br>
-  Currently, I am a Member of Support and Community Staff at <a href="https://www.oopenai.com">OpenAI</a>. Previouslly, I was improving developer experience at <a href="https://www.neptune.ai">neptune.ai</a> (acquired by OpenAI), where I created <a href="https://github.com/neptune-ai/scale-examples">code recipes</a>, <a href="https://www.youtube.com/playlist?list=PLzpzdz-hobreBTmZwnn3orHOgUQDuDiIt">demos</a>, and <a href="https://docs.neptune.ai/">documentation</a> to help users from frontier research labs like OpenAI and enterprises like Samsung succeed.    
+  Currently, I am a Member of Support and Community Staff at <a href="https://www.openai.com">OpenAI</a>. Previously, I was improving developer experience at <a href="https://www.neptune.ai">neptune.ai</a> (acquired by OpenAI), where I created <a href="https://github.com/neptune-ai/scale-examples">code recipes</a>, <a href="https://www.youtube.com/playlist?list=PLzpzdz-hobreBTmZwnn3orHOgUQDuDiIt">demos</a>, and <a href="https://docs.neptune.ai/">documentation</a> to help users from frontier research labs like OpenAI and enterprises like Samsung succeed.    
 <br><br>
   Recognized as a <a href="https://streamlit.io/creators">Streamlit Creator</a> and <a href="https://discuss.streamlit.io/g/community-moderators">Community Moderator</a> for supporting and growing the Streamlit developer community.  
 </h3>
@@ -14,7 +14,12 @@
 
 ### 📘 My Book
 
-<a href="https://orangeava.com/products/building-data-apps-with-streamlit"><img width="309" height="400" alt="image" src="https://github.com/user-attachments/assets/dbd9b0c2-07f7-4e74-8750-f96ca266aa32" /></a>
+<a href="https://www.amazon.com/Building-Data-Apps-Streamlit-Dashboards/dp/9349887843"><img width="309" height="400" alt="image" src="https://github.com/user-attachments/assets/dbd9b0c2-07f7-4e74-8750-f96ca266aa32" /></a>
+
+I wrote this book for Python developers and data practitioners who want to turn scripts, notebooks, and models into useful Streamlit apps people can actually use.
+
+- Publisher: [Orange Education](https://orangeava.com/products/building-data-apps-with-streamlit)
+- Companion code: [GitHub repository](https://github.com/ava-orange-education/Building-Data-Apps-with-Streamlit)
 
 ---
 
