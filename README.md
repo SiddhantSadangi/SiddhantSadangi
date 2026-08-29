@@ -49,14 +49,6 @@ A few things I’ve built for developers:
 
 ---
 
-### 📊 My Dev Activity
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddhantsadangi&theme=dark&show_icons=true&include_all_commits=true" alt="SiddhantSadangi"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=siddhantsadangi&theme=algolia&column=-1" alt="SiddhantSadangi" />
-</p>
-
----
-
 <p align="center">
   <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/SiddhantSadangi?style=for-the-badge">
   <img src="https://komarev.com/ghpvc/?username=siddhantsadangi&label=Profile%20views&style=for-the-badge" alt="SiddhantSadangi"/>
